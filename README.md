@@ -25,4 +25,4 @@ A powerful and lightweight DDoS protection system for Linux servers using `iptab
 1. Download the script:
 
 ```bash
-
+bash <(curl -s https://raw.githubusercontent.com/next-ninja/Next-Protection/refs/heads/main/install.sh)
