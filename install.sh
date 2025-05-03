@@ -31,4 +31,4 @@ chmod +x Next-Protection.py
 
 # Run the Next-Protection script
 echo "Running Next-Protection.py..."
-./superddos_installer_autoblock.sh
+./Next-Protection.sh
