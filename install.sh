@@ -27,7 +27,7 @@ cd Next-Protection || exit
 # fi
 
 # Make Next-Protection.py executable (optional)
-chmod +x Next-Protection.py
+chmod +x Next-Protection.sh
 
 # Run the Next-Protection script
 echo "Running Next-Protection.py..."
